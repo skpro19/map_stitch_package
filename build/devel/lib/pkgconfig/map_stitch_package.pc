@@ -1,0 +1,8 @@
+prefix=/home/skpro19/catkin_ws/src/map_stitch_package/build/devel
+
+Name: map_stitch_package
+Description: Description of map_stitch_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
